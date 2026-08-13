@@ -82,8 +82,4 @@ public class EmployeeDAOWrapper {
 		BeanUtils.copyProperties(employeeBean, employeeEntity);
 		return employeeEntity;
 	}
-	
-	public void test() {
-		int x=10;
-	}
 }
