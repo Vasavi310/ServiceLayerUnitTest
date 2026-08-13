@@ -83,4 +83,7 @@ public class EmployeeDAOWrapper {
 		return employeeEntity;
 	}
 	
+	public void test() {
+		int x=10;
+	}
 }
